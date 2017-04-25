@@ -1,0 +1,41 @@
+object frmMain: TfrmMain
+  Left = 356
+  Height = 240
+  Top = 131
+  Width = 322
+  BorderStyle = bsSizeToolWin
+  Caption = 'Small Mather'
+  ClientHeight = 240
+  ClientWidth = 322
+  Font.Height = -17
+  OnCreate = FormCreate
+  LCLVersion = '1.6.4.0'
+  object edtExpression: TEdit
+    Left = 4
+    Height = 31
+    Top = 4
+    Width = 314
+    Align = alTop
+    BorderSpacing.Around = 4
+    Color = clWindow
+    OnChange = edtExpressionChange
+    TabOrder = 0
+    Text = 'sin(1+1)*2'
+  end
+  object mmoCalcLog: TMemo
+    Left = 4
+    Height = 197
+    Top = 39
+    Width = 314
+    Align = alClient
+    BorderSpacing.Around = 4
+    Lines.Strings = (
+      'sin(4*2+3)'
+      'sin(11)'
+      '-0.999990206550703'
+    )
+    ReadOnly = True
+    ScrollBars = ssAutoVertical
+    TabOrder = 1
+  end
+end

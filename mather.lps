@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="mather.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="11" Y="12"/>
+        <UsageCount Value="51"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="124"/>
+        <CursorPos X="24" Y="184"/>
+        <UsageCount Value="51"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="902"/>
+        <CursorPos X="14" Y="964"/>
+        <UsageCount Value="7"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\components\codetools\Makefile"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\components\codetools\Makefile.fpc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\components\codetools\codetree.pas"/>
+        <UnitName Value="CodeTree"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="238"/>
+        <CursorPos X="34" Y="29"/>
+        <UsageCount Value="7"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\components\codetools\codeindex.pas"/>
+        <UnitName Value="CodeIndex"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <UsageCount Value="7"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1113"/>
+        <CursorPos X="11" Y="1136"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\win32\classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1098"/>
+        <CursorPos X="3" Y="1121"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\objpas\sysutils\osutilsh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="23"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="182"/>
+        <CursorPos X="30" Y="205"/>
+        <UsageCount Value="7"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\lcl\include\customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="566"/>
+        <CursorPos X="27" Y="606"/>
+        <UsageCount Value="7"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\components\lazutils\winlazutf8.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="328"/>
+        <CursorPos X="6" Y="351"/>
+        <UsageCount Value="7"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\objpas\math.pp"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="354"/>
+        <CursorPos X="15" Y="379"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\mathh.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="76"/>
+        <CursorPos X="17" Y="91"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\variant.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="592"/>
+        <CursorPos X="10" Y="615"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\win32\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="93"/>
+        <CursorPos X="13" Y="116"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\file.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="142"/>
+        <CursorPos X="11" Y="165"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit18>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="mather.lpr"/>
+        <Caret Line="4" Column="46"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="187" Column="67" TopLine="166"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="189" Column="41" TopLine="166"/>
+      </Position3>
+      <Position4>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\mathh.inc"/>
+        <Caret Line="98" Column="14" TopLine="76"/>
+      </Position4>
+      <Position5>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\variant.inc"/>
+        <Caret Line="780" Column="10" TopLine="757"/>
+      </Position5>
+      <Position6>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\variant.inc"/>
+        <Caret Line="615" Column="10" TopLine="592"/>
+      </Position6>
+      <Position7>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\inc\mathh.inc"/>
+        <Caret Line="98" Column="14" TopLine="76"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="189" Column="130" TopLine="166"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="187" Column="69" TopLine="166"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="186" Column="61" TopLine="168"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="188" Column="64" TopLine="167"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="11">
+      <Item1>
+        <Expression Value="ExprArray[0]"/>
+      </Item1>
+      <Item2>
+        <Expression Value="ExprArray[1]"/>
+      </Item2>
+      <Item3>
+        <Expression Value="ExprArray[2]"/>
+      </Item3>
+      <Item4>
+        <Expression Value="ExprArray[3]"/>
+      </Item4>
+      <Item5>
+        <Expression Value="ExprArray[4]"/>
+      </Item5>
+      <Item6>
+        <Expression Value="ExprArray[5]"/>
+      </Item6>
+      <Item7>
+        <Expression Value="ExprArray[6]"/>
+      </Item7>
+      <Item8>
+        <Expression Value="ExprArray[7]"/>
+      </Item8>
+      <Item9>
+        <Expression Value="ExprArray[8]"/>
+      </Item9>
+      <Item10>
+        <Expression Value="ExprArray[9]"/>
+      </Item10>
+      <Item11>
+        <Expression Value="Expr[i]"/>
+      </Item11>
+    </Watches>
+  </Debugging>
+</CONFIG>
